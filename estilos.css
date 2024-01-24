@@ -3,5 +3,7 @@ h1{
 }
 article{
     color: darkslategrey;
+    border-style: solid;
+    border-width: 1px;
     font-weight: bolder;
 }
